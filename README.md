@@ -1,6 +1,6 @@
 Requirements
 
-After downloading the files. You have to also download adaBoost.pkl file and add to the main folder.
+ You should download adaBoost.pkl file from the link and add to the main folder of the project.
 
 Adaboost.pkl file link:
 
